@@ -26,9 +26,9 @@ Lecture 9 (April 20) - [Health data and the case of organ donation](https://gith
 
 Lecture 10 (April 22) - [Organs and planning tools](https://github.com/ds-20195/slides/blob/main/Lec10-Apr22.pdf)
 
-Lecture 11 (April 27) - [The parking problem](https://github.com/ds-20195/slides/blob/main/Lec11-Apr27.pdf)
+Lecture 11 (April 27) - [Transit and infrastructure](https://github.com/ds-20195/slides/blob/main/Lec11-Apr27.pdf)
 
-Lecture 12 (April 29) - [Transit, continued](https://github.com/ds-20195/slides/blob/main/Lec12-Apr29.pdf)
+Lecture 12 (April 29) - [The parking problem](https://github.com/ds-20195/slides/blob/main/Lec12-Apr29.pdf)
 
 ## Unit 3: Where we live
 
