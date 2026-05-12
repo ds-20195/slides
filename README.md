@@ -35,3 +35,5 @@ Lecture 12 (April 29) - [The parking problem](https://github.com/ds-20195/slides
 Lecture 13 (May 4) - [Policing and incarceration](https://github.com/ds-20195/slides/blob/main/Lec13-May4.pdf)
 
 Lecture 14 (May 6) - [Space and measurement](https://github.com/ds-20195/slides/blob/main/Lec14-May6.pdf)
+
+Lecture 15 (May 11) - [Housing policy](https://github.com/ds-20195/slides/blob/main/Lec15-May11.pdf)
