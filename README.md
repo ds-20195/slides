@@ -37,3 +37,7 @@ Lecture 13 (May 4) - [Policing and incarceration](https://github.com/ds-20195/sl
 Lecture 14 (May 6) - [Space and measurement](https://github.com/ds-20195/slides/blob/main/Lec14-May6.pdf)
 
 Lecture 15 (May 11) - [Housing policy](https://github.com/ds-20195/slides/blob/main/Lec15-May11.pdf)
+
+Lecture 16 (May 13) - [Cities and suburbs](https://github.com/ds-20195/slides/blob/main/Lec16-May13.pdf)
+
+Lecture 17 (May 18) - [Neighborhoods and policy power](https://github.com/ds-20195/slides/blob/main/Lec17-May18.pdf)
