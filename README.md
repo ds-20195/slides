@@ -41,3 +41,5 @@ Lecture 15 (May 11) - [Housing policy](https://github.com/ds-20195/slides/blob/m
 Lecture 16 (May 13) - [Cities and suburbs](https://github.com/ds-20195/slides/blob/main/Lec16-May13.pdf)
 
 Lecture 17 (May 18) - [Neighborhoods and policy power](https://github.com/ds-20195/slides/blob/main/Lec17-May18.pdf)
+
+Lecture 18 (May 20) - [Communities and state power](https://github.com/ds-20195/slides/blob/main/Lec18-May20.pdf)
